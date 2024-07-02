@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile! 👋
 
-Hi, I'm Ymitiku, a passionate software developer specializing in machine learning, computer vision, and natural language processing. I enjoy creating innovative solutions that bridge the gap between technology and real-world applications.
+Hi, I'm Mitiku Yohannes, a passionate software developer specializing in machine learning, computer vision, and natural language processing. I enjoy creating innovative solutions that bridge the gap between technology and real-world applications.
 
 ### 🌟 Featured Projects
 
@@ -25,7 +25,7 @@ A set of classes to tokenize Amharic language sentences.
 - **Topics:** Natural language processing, Amharic language, tokenization
 
 ### 📈 GitHub Stats
-![Ymitiku's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymitiku&show_icons=true&theme=radical)
+![Mitiku Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymitiku&show_icons=true&theme=radical)
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, HTML, CSS
@@ -34,8 +34,8 @@ A set of classes to tokenize Amharic language sentences.
 
 ### 📝 How to Reach Me
 - **Email:** [your-email@example.com](mailto:se.mitiku.yohannes@gmail.com)
-- **LinkedIn:** [Ymitiku](https://www.linkedin.com/in/ymitiku/)
-- **Website/Blog:** [your-website.com](https://your-website.com)
+- **LinkedIn:** [Mitiku Yohannes](https://www.linkedin.com/in/mitikuyohannes/)
+- **Website/Blog:** [your-website.com](https://github.io/ymitiku)
 
 ### 🎯 Goals
 - Continue developing and sharing open-source projects.
