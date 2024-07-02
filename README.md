@@ -33,7 +33,7 @@ A set of classes to tokenize Amharic language sentences.
 - **Tools:** Git, Docker, Conda, Jupyter Notebook
 
 ### 📝 How to Reach Me
-- **Email:** [your-email@example.com](mailto:se.mitiku.yohannes@gmail.com)
+- **Email:** [se.mitiku.yohannes@gmail.com](mailto:se.mitiku.yohannes@gmail.com)
 - **LinkedIn:** [Mitiku Yohannes](https://www.linkedin.com/in/mitikuyohannes/)
 - **Website/Blog:** [your-website.com](https://github.io/ymitiku)
 
