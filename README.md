@@ -4,7 +4,7 @@ Hi, I'm Mitiku Yohannes, a passionate software developer specializing in machine
 
 ### 🌟 Featured Projects
 
-#### [Fluxion]((https://github.com/ymitiku/fluxion)
+#### [Fluxion](https://github.com/ymitiku/fluxion)
 
 **Fluxion** is a Python library for building and managing agentic workflows. Designed with modularity, scalability, and extensibility in mind, Fluxion simplifies the integration of locally or remotely hosted language models (LLMs) powered by [Ollama](https://ollama.com). By leveraging its robust architecture, developers can create intelligent systems capable of natural conversation, contextual reasoning, tool invocation, and autonomous decision-making, enabling seamless orchestration of complex, dynamic workflows.
 
